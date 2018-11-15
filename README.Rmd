@@ -20,13 +20,18 @@ __Note__: This R package is not mean to be "serious". It's just for teaching pur
 
 This is an R package that gives `sqrt()` friends by providing other power functions.
 
+## References
+Link to original package by Vincenzo: [Link](https://github.com/vincenzocoia/powers)
+
+Link to wiki page I referenced for box cox tranform:  [Link](https://en.wikipedia.org/wiki/Power_transform#Box%E2%80%93Cox_transformation)
+
 ## Installation
 
 You can install powers from github with:
 
 ```{r gh-installation, eval = FALSE}
 # install.packages("devtools")
-devtools::install_github("vincenzocoia/powers")
+devtools::install_github("STAT545-UBC-students/hw07-curtis77")
 ```
 
 ## Example
