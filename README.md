@@ -21,7 +21,7 @@ Link to folder with test files: [Link](https://github.com/STAT545-UBC-students/h
 References
 ----------
 
-Link to original package by Vincenzo: [Link](https://github.com/vincenzocoia/powers)
+Link to original powers package by Vincenzo: [Link](https://github.com/vincenzocoia/powers)
 
 Link to wiki page I referenced for box cox tranform: [Link](https://en.wikipedia.org/wiki/Power_transform#Box%E2%80%93Cox_transformation)
 
