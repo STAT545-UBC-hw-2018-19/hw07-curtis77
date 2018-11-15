@@ -9,6 +9,15 @@ powers
 
 This is an R package that gives `sqrt()` friends by providing other power functions.
 
+Links to various folders in repository:
+---------------------------------------
+
+Link to folder with R files: [Link](https://github.com/STAT545-UBC-students/hw07-curtis77/tree/master/R)
+
+Link to folder with vignette files: [Link](https://github.com/STAT545-UBC-students/hw07-curtis77/tree/master/vignettes)
+
+Link to folder with test files: [Link](https://github.com/STAT545-UBC-students/hw07-curtis77/tree/master/tests)
+
 References
 ----------
 

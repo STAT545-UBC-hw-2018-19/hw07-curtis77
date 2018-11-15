@@ -1,6 +1,6 @@
 ---
 title: "Using the `powers` package"
-author: "Vincenzo Coia"
+author: "Curtis Fox"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >

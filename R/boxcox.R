@@ -5,12 +5,8 @@
 #' @param lambda The parameter used to perform the transform
 #' @param plot_it Display a plot of the output of the transform versus x, if set to TRUE
 #'
-#' @examples
-#' boxcox(0.5)
-#' boxcox(3)
-#'
 #' @return
-#' This function performs returns the box cox transform on x, using paramter lambda
+#' This function performs returns the box cox transform on x, using parameter lambda
 #'
 #' @rdname boxcox
 #'
